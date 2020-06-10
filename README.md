@@ -1,4 +1,4 @@
-# SPA_PS3HEN
+# ESP_PS3HEN
 
 PS3HEN En español y sin actualizaciones automáticas.
 Actualmente hay soporte solo para 4.86 HFW
