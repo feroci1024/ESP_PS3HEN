@@ -1,6 +1,7 @@
 # ESP_PS3HEN
 
-PS3HEN 3.0.1 En español y sin actualizaciones automáticas.
+Supporting 4.84/4.85/4.86/4.87 HFW
+PS3HEN 3.0.2 En español y sin actualizaciones automáticas.
 Incluye las llaves de un conjunto de tiendas las cuales son:
 HENbrew Store
 HEN Toolbox
@@ -10,7 +11,7 @@ TheWizWiki Store
 Gamers Store
 Mac Store
 
-PS3HEN 3.0.1 In Spanish and without automatic updates.
+PS3HEN 3.0.2 In Spanish and without automatic updates.
 Includes the keys of a set of stores which are:
 HENbrew store
 HEN Toolbox
